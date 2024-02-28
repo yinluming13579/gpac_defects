@@ -5,7 +5,7 @@ Vulnerability Description:
 The vulnerability is a memory leak issue, where a local variable named "dst_props" in the gf_filter_pid_merge_properties_internal function is allocated memory but not released.
 
 gpac download address:
-https://hub.fgit.cf/gpac/gpac.git
+https://github.com/gpac/gpac.git
 
 Defect Location and Description:
 
