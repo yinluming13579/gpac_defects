@@ -5,7 +5,7 @@ Vulnerability Description:
 This defect represents a Use-After-Free (UAF) vulnerability, occurring at line 1047 in the file "/gpac/src/filters/dasher.c". This vulnerability could potentially be exploited maliciously, leading to a denial-of-service (DoS) attack.
 
 gpac download address:
-https://hub.fgit.cf/gpac/gpac.git
+https://github.com/gpac/gpac.git
 
 Defect Location and Description:
 
